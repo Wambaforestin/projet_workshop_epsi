@@ -1,11 +1,22 @@
-# projet_workshop_epsi
+# Site Web Workshop EPSI : SolidarTech
 
-## Description du projet
+![Image du Projet](images/SolidariTech.jpg)
 
--  Conception et développement d'un site éducatif pour les étudiants gabonais, avec un mini-jeu de CSS et un quiz sur HTML intégré.
--  Ce projet a été conçu par mon groupe à l'EPSI Paris La Défense, en utilisant les langages HTML, CSS, et JS, sans programmation avec l'outil Nicepage.
--  Le design du site a été réalisé avec Nicepage, un outil qui permet de créer facilement des sites web modernes et responsives.
--  Le mini-jeu de CSS consiste à modifier le style d'un élément HTML en utilisant des propriétés CSS. Le but est de reproduire le résultat attendu le plus rapidement possible.
--  Le quiz sur HTML comporte 10 questions à choix multiples sur les bases du langage HTML. Le but est de répondre correctement à toutes les questions en un minimum de temps.
--  Le site est accessible en ligne à l'adresse suivante : [lien du site]. Vous pouvez également consulter le code source du projet sur GitHub : [lien du dépôt].
--  Nous espérons que ce site vous plaira et vous aidera à apprendre le développement web. N'hésitez pas à nous faire part de vos commentaires et suggestions. Bonne visite ! 😊
+## Description du Projet
+
+Ce projet a été développé par moi-même et mon groupe lors d'un atelier d'une semaine organisé à l'Epsi Paris sur le thème : "Réduire les inégalités d'accès aux métiers numériques". Notre objectif était de créer un site web destiné aux jeunes Gabonais, en particulier aux filles, afin de les initier au domaine de la technologie et au-delà.
+
+Le projet a été réalisé en utilisant les outils suivants :
+
+- NicePage
+- HTML
+- CSS
+- JavaScript
+
+Le résultat final est un site web contenant des liens vers des ressources telles qu'OpenClassroom, ainsi qu'un jeu en CSS et un quiz en HTML. La langue utilisée pour le site web est le français.
+
+## Liens Utiles
+
+- [Site Web de l'École](epsi.fr)
+- [Démo](https://wambaforestin.github.io/projet_workshop_epsi/)
+- [Plateformes de Tutorat en Ligne](GeeksforGeeks.org)
