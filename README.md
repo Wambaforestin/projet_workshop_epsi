@@ -13,7 +13,7 @@ Le projet a été réalisé en utilisant les outils suivants :
 - CSS
 - JavaScript
 
-Le résultat final est un site web contenant des liens vers des ressources telles qu'OpenClassroom, ainsi qu'un jeu en CSS et un quiz en HTML. La langue utilisée pour le site web est le français.
+Le résultat final est un site web contenant des liens vers des ressources telles qu'OpenClassroom, FreecodeCamp etc... ainsi qu'un jeu en CSS et un quiz en HTML. La langue utilisée pour le site web est le français et le Punu.
 
 ## Liens Utiles
 
